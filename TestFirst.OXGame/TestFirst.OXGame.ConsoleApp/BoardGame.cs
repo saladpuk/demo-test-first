@@ -10,7 +10,8 @@ namespace TestFirst.OXGame.ConsoleApp
 
         public bool Plac(string symbol, int row, int column)
         {
-            throw new NotImplementedException();
+            CurrentTurn = "O";
+            return true;
         }
     }
 }
