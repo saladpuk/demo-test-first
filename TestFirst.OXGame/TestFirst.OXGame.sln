@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFirst.OXGame.ConsoleApp", "TestFirst.OXGame.ConsoleApp\TestFirst.OXGame.ConsoleApp.csproj", "{65322123-4EAD-401D-9665-8D733811671E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFirst.OXGame.ConsoleApp.Tests", "TestFirst.OXGame.ConsoleApp.Tests\TestFirst.OXGame.ConsoleApp.Tests.csproj", "{42F029D6-4FCF-4F4D-931F-5D447CA29235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65322123-4EAD-401D-9665-8D733811671E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65322123-4EAD-401D-9665-8D733811671E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65322123-4EAD-401D-9665-8D733811671E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65322123-4EAD-401D-9665-8D733811671E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F029D6-4FCF-4F4D-931F-5D447CA29235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F029D6-4FCF-4F4D-931F-5D447CA29235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F029D6-4FCF-4F4D-931F-5D447CA29235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F029D6-4FCF-4F4D-931F-5D447CA29235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F87C0A24-9256-4BC6-A259-DF8DA8F685DD}
+	EndGlobalSection
+EndGlobal
